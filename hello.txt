@@ -4,8 +4,5 @@ How are you
 
 I am fine Thank you Anju
 
-<<<<<<< HEAD
 Anju added Text box
-=======
 Jibin Added button
->>>>>>> feature/button
